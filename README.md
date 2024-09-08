@@ -4,6 +4,7 @@
 
 <br clear="both">
 
+<h2 align="left">Check my social media</h2>
 <div align="left">
   <a href="https://www.instagram.com/nojs.nojin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -21,6 +22,7 @@
 
 ###
 
+<h2 align="left">Tech I use</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -51,12 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
+<h2 align="left">Profile Visit</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/NojinNojs/count.svg?"  />
 </div>
 
 ###
-
+<h2 align="left">Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NojinNojs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NojinNojs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
