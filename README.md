@@ -51,22 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=yawmbnmpqo1w3albg0n4v697m)](https://open.spotify.com/user/yawmbnmpqo1w3albg0n4v697m)">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%5B!%5BSpotify%20recently%20played%5D(https://spotify-recently-played-readme.vercel.app/api?user=yawmbnmpqo1w3albg0n4v697m)%5D(https://open.spotify.com/user/yawmbnmpqo1w3albg0n4v697m)&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NojinNojs/NojinNojs/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/NojinNojs/count.svg?"  />
 </div>
